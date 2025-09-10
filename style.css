@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #0d0d0d;
+  color: #9fff9f;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+  color: #8aff8a;
+  font-size: 26px;
+  z-index: 10;
+}
+
+#canvas {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
